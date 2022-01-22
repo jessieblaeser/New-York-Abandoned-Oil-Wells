@@ -14,7 +14,7 @@ h1 {
 
 *Western New York towns were built around oil production. Now, they grapple with abandoned wells — the remnants of an industry in decline.*
 
-<b>By Ilena Peng, Jessie Blaeser and Stephen Mante Anti</b>
+<b>By Jessie Blaeser, Ilena Peng and Stephen Mante Anti</b>
 
 <hr>
 
